@@ -5,5 +5,6 @@
 4) Pubs below Projects
 
 #### 11/24 Edits:
-- highlight color (yellow instead of classic)
-- white hovers (instead of line through)
+- Highlight color 
+- White hovers 
+- No more horizontal scroll
