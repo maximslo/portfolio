@@ -5,5 +5,5 @@
 4) Pubs below Projects
 
 #### 11/24 Edits:
-- highlight color
-- white hovers
+- highlight color (yellow instead of classic)
+- white hovers (instead of line through)
