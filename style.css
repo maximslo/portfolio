@@ -6,6 +6,10 @@
     font-family: 'Inter';
 }
 
+::selection {
+    background: lightgoldenrodyellow;
+  }
+
 section{
     position: relative;
     min-height: 100vh;
@@ -84,7 +88,7 @@ section{
     background: radial-gradient(pink, plum);
     border-radius: 50%;
     z-index: -1;
-    transform: translate(120px, -240px);
+    transform: translate(390px, -240px);
 }
 
 .left p1{
